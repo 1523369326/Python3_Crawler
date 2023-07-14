@@ -85,18 +85,3 @@ if __name__ == '__main__':
         for result in results:
             print(result)
             save_to_mongo(result)
-
-
-# #取出下一页的since_id
-# items = response.json().get('data').get('cards')
-# next_since_id = response.json().get('data').get('cardlistInfo').get('since_id')
-# print(next_since_id)
-# for item in items:
-#     item = item.get('mblog')
-#     weibo = {}
-#     weibo['id'] = item.get('id')
-#     weibo['text'] = pq(item.get('text')).text()
-#     weibo['attitudes'] = item.get('attitudes_count')
-#     weibo['comments'] = item.get('comments_count')
-#     weibo['reposts'] = item.get('reposts_count')
-#     print(weibo['text'])
