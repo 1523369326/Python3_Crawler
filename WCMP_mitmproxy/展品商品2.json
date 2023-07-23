@@ -1,0 +1,107 @@
+{
+	"datas": {
+		"records": [{
+			"id": 69,
+			"name": "PowerNET 300/500 (户外控制逆变柜)",
+			"exhibitorsName": "南京四象新能源科技有限公司",
+			"pic": "/eesa/prod/20230630/1688116543004.png",
+			"isStarProduct": false,
+			"position": "G3-12",
+			"pavilionName": "G3展馆",
+			"heat": 29
+		}, {
+			"id": 72,
+			"name": "PowerON R-SL高压堆叠一体机",
+			"exhibitorsName": "南京四象新能源科技有限公司",
+			"pic": "/eesa/prod/20230703/1688347791951.png",
+			"isStarProduct": false,
+			"position": "G3-12",
+			"pavilionName": "G3展馆",
+			"heat": 24
+		}, {
+			"id": 73,
+			"name": "PowerON R-W6低压壁挂电池柜",
+			"exhibitorsName": "南京四象新能源科技有限公司",
+			"pic": "/eesa/prod/20230703/1688347837680.png",
+			"isStarProduct": false,
+			"position": "G3-12",
+			"pavilionName": "G3展馆",
+			"heat": 17
+		}, {
+			"id": 68,
+			"name": "Power ON D1 （户外分布式电池柜）",
+			"exhibitorsName": "南京四象新能源科技有限公司",
+			"pic": "/eesa/prod/20230630/1688116153648.png",
+			"isStarProduct": false,
+			"position": "G3-12",
+			"pavilionName": "G3展馆",
+			"heat": 14
+		}, {
+			"id": 21,
+			"name": "组串式PCS",
+			"exhibitorsName": "易事特集团股份有限公司",
+			"pic": "/eesa/prod/20230626/1687758403212.png",
+			"isStarProduct": false,
+			"position": "B1-28（L）",
+			"pavilionName": "B1展馆",
+			"heat": 13
+		}, {
+			"id": 141,
+			"name": "CoolBattery储能液冷热管理解决方案",
+			"exhibitorsName": "深圳艾特网能技术有限公司",
+			"pic": "/eesa/prod/20230706/1688625165999.png",
+			"isStarProduct": true,
+			"position": "C3-32",
+			"pavilionName": "C3展馆",
+			"heat": 12
+		}, {
+			"id": 24,
+			"name": "Qoma双向储能变流器",
+			"exhibitorsName": "拓宝新能（厦门）科技有限公司",
+			"pic": "/eesa/prod/20230626/1687765174939.png",
+			"isStarProduct": false,
+			"position": "F3-35 36",
+			"pavilionName": "F3展馆",
+			"heat": 11
+		}, {
+			"id": 205,
+			"name": "极片激光切割系统",
+			"exhibitorsName": "深圳锦帛方激光科技有限公司",
+			"pic": "/eesa/prod/20230717/1689577943953.png",
+			"isStarProduct": false,
+			"position": "E1-05(L)",
+			"pavilionName": "E1展馆",
+			"heat": 3
+		}, {
+			"id": 314,
+			"name": "20'HC非步入式储能箱",
+			"exhibitorsName": "惠州胜狮能源装备有限公司",
+			"pic": "/eesa/prod/20230721/1689929773834.jpg",
+			"isStarProduct": false,
+			"position": "D3-22",
+			"pavilionName": "D3展馆",
+			"heat": 2
+		}, {
+			"id": 228,
+			"name": "不锈钢卡盘避震管",
+			"exhibitorsName": "诸暨市神通机电工业有限公司",
+			"pic": "/eesa/prod/20230719/1689734937422.png",
+			"isStarProduct": false,
+			"position": "F3-60(R)",
+			"pavilionName": "F3展馆",
+			"heat": 2
+		}],
+		"total": 135,
+		"size": 10,
+		"current": 1,
+		"orders": [],
+		"optimizeCountSql": true,
+		"searchCount": true,
+		"countId": null,
+		"maxLimit": null,
+		"pages": 14
+	},
+	"resp_code": 0,
+	"resp_msg": "请求成功",
+	"timeStamp": 1689943652108
+}
